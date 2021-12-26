@@ -95,6 +95,7 @@ namespace vchmat6
             this.button1.TabIndex = 32;
             this.button1.Text = "Метод эйлера";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button4
             // 
@@ -104,6 +105,7 @@ namespace vchmat6
             this.button4.TabIndex = 33;
             this.button4.Text = "стереть исправленный";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button8
             // 
@@ -113,6 +115,7 @@ namespace vchmat6
             this.button8.TabIndex = 37;
             this.button8.Text = "удалить график Адамса";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button9
             // 
@@ -122,6 +125,7 @@ namespace vchmat6
             this.button9.TabIndex = 38;
             this.button9.Text = "точное решение";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button10
             // 
@@ -131,6 +135,7 @@ namespace vchmat6
             this.button10.TabIndex = 39;
             this.button10.Text = "удалить точное решение";
             this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // button11
             // 
@@ -140,6 +145,7 @@ namespace vchmat6
             this.button11.TabIndex = 40;
             this.button11.Text = "Метод адамса";
             this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // textBox1
             // 
@@ -155,7 +161,7 @@ namespace vchmat6
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 31;
-            this.textBox2.Text = "0.1";
+            this.textBox2.Text = "0,1";
             // 
             // Form1
             // 

@@ -127,14 +127,10 @@ namespace vchmat6
         private void graph(double[] x, double[] y, int i)
 
         {
-
             chart1.ChartAreas[0].AxisX.Minimum = x0;
-
             chart1.ChartAreas[0].AxisX.Maximum = double.Parse(textBox1.Text);
-
-            chart1.Series[i].ChartType = SeriesChartType.Line;
-
-            chart1.Series[i].Points.DataBindXY(x, y);
+            chart1.Series[0].ChartType = SeriesChartType.Line;
+            chart1.Series[0].Points.DataBindXY(x, y);
 
         }
 
@@ -144,7 +140,7 @@ namespace vchmat6
 
         {
 
-            return (Math.Sin(x) -  y);
+            return (Math.Sin(x) - y);
 
         }
 
@@ -164,7 +160,7 @@ namespace vchmat6
 
         {
 
-            chart1.Series[2].Points.Clear();
+            chart1.Series[0].Points.Clear();
 
         }
 
@@ -198,11 +194,11 @@ namespace vchmat6
 
         {
 
-            chart1.Series[1].Points.Clear();
+            chart1.Series[0].Points.Clear();
 
         }
 
-        //метод Рунге-Кутты
+        //метод Рунге
 
         double Rhunge(double h, double x, double y)
 
@@ -212,13 +208,13 @@ namespace vchmat6
 
         }
 
-        //исправленный формула
+        //модифицированная формула
 
         double Eiler(double h, double x, double y)
 
         {
 
-            return (y + h * 0.5 * (function(x, y) + function(x + h, y + h * function(x, y))));
+            return (y + h * (function(x + 0.5 * h, y + 0.5 * h * function(x, y))));
 
         }
 
@@ -228,11 +224,11 @@ namespace vchmat6
 
         {
 
-            chart1.Series[3].Points.Clear();
+            chart1.Series[0].Points.Clear();
 
         }
 
-        //метод Адамса 4-ого порядка
+        //метод Адамса 3-ого порядка
 
         private void button11_Click(object sender, EventArgs e)
 
@@ -282,7 +278,10 @@ namespace vchmat6
 
         }
 
-        //метод Эйлера исправленный
+
+
+
+        //метод Эйлера модифицированный
 
         private void button2_Click(object sender, EventArgs e)
 
