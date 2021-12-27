@@ -1,0 +1,59 @@
+C:\Users\Соня\source\repos\vchmat3\vchmat3\bin\Debug\vchmat3.exe.config
+C:\Users\Соня\source\repos\vchmat3\vchmat3\bin\Debug\vchmat3.exe
+C:\Users\Соня\source\repos\vchmat3\vchmat3\bin\Debug\vchmat3.pdb
+C:\Users\Соня\source\repos\vchmat3\vchmat3\obj\Debug\vchmat3.csprojAssemblyReference.cache
+C:\Users\Соня\source\repos\vchmat3\vchmat3\obj\Debug\vchmat3.Form1.resources
+C:\Users\Соня\source\repos\vchmat3\vchmat3\obj\Debug\vchmat3.Properties.Resources.resources
+C:\Users\Соня\source\repos\vchmat3\vchmat3\obj\Debug\vchmat3.csproj.GenerateResource.cache
+C:\Users\Соня\source\repos\vchmat3\vchmat3\obj\Debug\vchmat3.csproj.CoreCompileInputs.cache
+C:\Users\Соня\source\repos\vchmat3\vchmat3\obj\Debug\vchmat3.exe
+C:\Users\Соня\source\repos\vchmat3\vchmat3\obj\Debug\vchmat3.pdb
+C:\Users\egor1\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\bin\Debug\vchmat3.exe.config
+C:\Users\egor1\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\bin\Debug\vchmat3.exe
+C:\Users\egor1\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\bin\Debug\vchmat3.pdb
+C:\Users\egor1\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.csprojAssemblyReference.cache
+C:\Users\egor1\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.Form1.resources
+C:\Users\egor1\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.Properties.Resources.resources
+C:\Users\egor1\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.csproj.GenerateResource.cache
+C:\Users\egor1\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.exe
+C:\Users\egor1\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.pdb
+C:\Users\bogdan\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\bin\Debug\vchmat3.exe.config
+C:\Users\bogdan\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\bin\Debug\vchmat3.exe
+C:\Users\bogdan\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\bin\Debug\vchmat3.pdb
+C:\Users\bogdan\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.csprojAssemblyReference.cache
+C:\Users\bogdan\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.Form1.resources
+C:\Users\bogdan\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.Properties.Resources.resources
+C:\Users\bogdan\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.csproj.GenerateResource.cache
+C:\Users\bogdan\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.csproj.CoreCompileInputs.cache
+C:\Users\bogdan\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.exe
+C:\Users\bogdan\Desktop\functionsApproximation-master\functionsApproximation-master\vchmat3\vchmat3\obj\Debug\vchmat3.pdb
+C:\Рома\Универ Ворк\vchmat3\vchmat3\bin\Debug\vchmat3.exe.config
+C:\Рома\Универ Ворк\vchmat3\vchmat3\bin\Debug\vchmat3.exe
+C:\Рома\Универ Ворк\vchmat3\vchmat3\bin\Debug\vchmat3.pdb
+C:\Рома\Универ Ворк\vchmat3\vchmat3\obj\Debug\vchmat3.csproj.AssemblyReference.cache
+C:\Рома\Универ Ворк\vchmat3\vchmat3\obj\Debug\vchmat3.Form1.resources
+C:\Рома\Универ Ворк\vchmat3\vchmat3\obj\Debug\vchmat3.Properties.Resources.resources
+C:\Рома\Универ Ворк\vchmat3\vchmat3\obj\Debug\vchmat3.csproj.GenerateResource.cache
+C:\Рома\Универ Ворк\vchmat3\vchmat3\obj\Debug\vchmat3.csproj.CoreCompileInputs.cache
+C:\Рома\Универ Ворк\vchmat3\vchmat3\obj\Debug\vchmat3.exe
+C:\Рома\Универ Ворк\vchmat3\vchmat3\obj\Debug\vchmat3.pdb
+C:\Рома\Универ Ворк\vchmat6\vchmat3\obj\Debug\vchmat3.csproj.AssemblyReference.cache
+C:\Рома\Универ Ворк\vchmat6\vchmat3\obj\Debug\vchmat6.Form1.resources
+C:\Рома\Универ Ворк\vchmat6\vchmat3\obj\Debug\vchmat3.Properties.Resources.resources
+C:\Рома\Универ Ворк\vchmat6\vchmat3\obj\Debug\vchmat3.csproj.GenerateResource.cache
+C:\Рома\Универ Ворк\vchmat6\vchmat3\obj\Debug\vchmat3.csproj.CoreCompileInputs.cache
+C:\Рома\Универ Ворк\vchmat6\vchmat3\obj\Debug\vchmat3.exe
+C:\Рома\Универ Ворк\vchmat6\vchmat3\obj\Debug\vchmat3.pdb
+C:\Рома\Универ Ворк\vchmat6\vchmat3\bin\Debug\vchmat3.exe.config
+C:\Рома\Универ Ворк\vchmat6\vchmat3\bin\Debug\vchmat3.exe
+C:\Рома\Универ Ворк\vchmat6\vchmat3\bin\Debug\vchmat3.pdb
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\bin\Debug\vchmat3.exe.config
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\bin\Debug\vchmat3.exe
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\bin\Debug\vchmat3.pdb
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\vchmat3.csproj.AssemblyReference.cache
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\vchmat6.Form1.resources
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\vchmat3.Properties.Resources.resources
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\vchmat3.csproj.GenerateResource.cache
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\vchmat3.csproj.CoreCompileInputs.cache
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\vchmat3.exe
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\vchmat3.pdb
