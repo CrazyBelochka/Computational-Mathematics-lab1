@@ -1,0 +1,10 @@
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\bin\Debug\vchmat3.exe.config
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\bin\Debug\vchmat3.exe
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\bin\Debug\vchmat3.pdb
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\kursovay.csproj.AssemblyReference.cache
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\vchmat6.Form1.resources
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\vchmat3.Properties.Resources.resources
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\kursovay.csproj.GenerateResource.cache
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\kursovay.csproj.CoreCompileInputs.cache
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\vchmat3.exe
+C:\Users\rkusu\source\repos\Kursovay\vchmat3\obj\Debug\vchmat3.pdb
